@@ -1,10 +1,11 @@
 {
   "name": "nodeserver",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.html",
+  "description": "Project for a basic node server",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev:server": "nodemon index.js",
+    "getFiles": "npm install"
   },
   "repository": {
     "type": "git",
