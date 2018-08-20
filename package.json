@@ -4,8 +4,7 @@
   "description": "Project for a basic node server",
   "main": "index.js",
   "scripts": {
-    "dev:server": "nodemon index.js",
-    "getFiles": "npm install"
+    "dev:server": "nodemon index.js"
   },
   "repository": {
     "type": "git",
