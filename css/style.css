@@ -1,9 +1,17 @@
 body {
-
+ background-color: #f3a683;
 }
 
 #header {
   text-align: center;
+}
+
+.header {
+  text-align: center;
+}
+
+h1 {
+  color: #f3a683;
 }
 
 nav {
